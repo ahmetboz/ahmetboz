@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahmetboz
 - 👀 I’m interested in my SaaS App(Unitify.)
 - 🌱 I’m currently learning Startup basics :)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? : ahmetboz16[at]gmail.com
 
 <!---
