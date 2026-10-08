@@ -17,6 +17,8 @@ Small, finished tools taken from production and cleaned up for anyone running th
 
 - [whmcs-ga4-consent-mode](https://github.com/ahmetboz/whmcs-ga4-consent-mode): GA4 and Google Ads for the WHMCS client area under Consent Mode v2, denied by default, one banner, purchase and conversion events.
 - [whmcs-hooks](https://github.com/ahmetboz/whmcs-hooks): single-file WHMCS hooks for the things a small host needs: Telegram alerts for orders and tickets, a safeguard against accidental terminations, a promo-code banner in the store cart, a ticket label fix.
+- [proxmox-cloud-init-templates](https://github.com/ahmetboz/proxmox-cloud-init-templates): one script that builds ready-to-clone cloud-init templates on Proxmox VE for Debian, Ubuntu, AlmaLinux and Rocky (plus Docker and n8n images), with the Debian 12 and IPv6 on-link fixes we needed in production.
+
 
 
 More to come: a collection of small WHMCS hooks (Telegram alerts, admin safeguards) and the scripts that build our Proxmox cloud-init templates.
