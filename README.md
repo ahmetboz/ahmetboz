@@ -13,7 +13,7 @@ Most of what I write is the glue that makes a small hosting company run without 
 
 ## Open source
 
-Small, finished tools taken from production and cleaned up for anyone running the same stack.
+Small, finished tools for the hosting stack: WHMCS hooks, Proxmox cloud-init templates, and the glue between them.
 
 - [whmcs-ga4-consent-mode](https://github.com/ahmetboz/whmcs-ga4-consent-mode): GA4 and Google Ads for the WHMCS client area under Consent Mode v2, denied by default, one banner, purchase and conversion events.
 - [whmcs-hooks](https://github.com/ahmetboz/whmcs-hooks): single-file WHMCS hooks for the things a small host needs: Telegram alerts for orders and tickets, a safeguard against accidental terminations, a promo-code banner in the store cart, a ticket label fix.
